@@ -153,5 +153,5 @@ add_library(stb INTERFACE)
 target_include_directories(stb SYSTEM INTERFACE ${stb_SOURCE_DIR})
 
 # --- Your code ---------------------------------------------------------------------
-add_subdirectory(Engine)
-add_subdirectory(Games)
+add_subdirectory(engine)
+add_subdirectory(games)

@@ -1,7 +1,7 @@
 #include "basic.h"
 
-#include <Engine/window.h>
-#include <Engine/Graphics/graphics.h>
+#include <engine/window.h>
+#include <engine/Graphics/graphics.h>
 #include <glm/glm.hpp>
 
 BasicGame::BasicGame() {

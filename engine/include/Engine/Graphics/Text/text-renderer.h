@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Engine/Graphics/Text/font.h"
+#include "engine/Graphics/Text/font.h"
 
 namespace gl {
 

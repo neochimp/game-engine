@@ -1,4 +1,4 @@
-#include "Engine/Graphics/Shapes/cylinder.h"
+#include "engine/Graphics/Shapes/cylinder.h"
 
 namespace gl {
     Cylinder::Cylinder(int radial_subdivisions, int height_subdivisions) {

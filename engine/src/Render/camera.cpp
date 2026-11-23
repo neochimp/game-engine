@@ -1,8 +1,8 @@
-#include "Engine/Graphics/camera.h"
+#include "engine/Graphics/camera.h"
 
 #include <glm/gtc/matrix_transform.hpp>
 
-#include "Engine/window.h"
+#include "engine/window.h"
 
 namespace gl {
     Camera::Camera() : position_(0.0f, 0.0f, 0.0f),

@@ -1,6 +1,6 @@
-#include "Engine/Graphics/Skinned/skeleton.h"
+#include "engine/Graphics/Skinned/skeleton.h"
 
-#include "Engine/debug.h"
+#include "engine/debug.h"
 
 
 namespace gl {

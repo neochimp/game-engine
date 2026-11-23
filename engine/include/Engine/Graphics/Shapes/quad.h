@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Engine/Graphics/Shapes/primitive.h"
+#include "engine/Graphics/Shapes/primitive.h"
 
 namespace gl {
     class Quad : public Primitive {

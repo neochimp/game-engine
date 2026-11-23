@@ -1,9 +1,9 @@
-#include "Engine/Imgui/ui.h"
+#include "engine/Imgui/ui.h"
 
 #include <backends/imgui_impl_glfw.h>
 #include <backends/imgui_impl_opengl3.h>
 
-#include "Engine/Graphics/Skinned/animation.h"
+#include "engine/Graphics/Skinned/animation.h"
 
 
 /**

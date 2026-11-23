@@ -3,7 +3,7 @@
 #include <memory>
 #include <glm/glm.hpp>
 
-#include "Engine/game.h"
+#include "engine/game.h"
 
 struct GLFWwindow;
 

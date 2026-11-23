@@ -1,4 +1,4 @@
-#include "Engine/Graphics/Shapes/cube.h"
+#include "engine/Graphics/Shapes/cube.h"
 
 namespace gl {
     Cube::Cube(int subdivisions) {

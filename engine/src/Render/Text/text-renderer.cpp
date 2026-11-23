@@ -1,10 +1,10 @@
-#include "Engine/Graphics/Text/text-renderer.h"
+#include "engine/Graphics/Text/text-renderer.h"
 
 #include <ranges>
 
-#include "Engine/debug.h"
-#include "Engine/Graphics/graphics.h"
-#include "Engine/Graphics/shaders.h"
+#include "engine/debug.h"
+#include "engine/Graphics/graphics.h"
+#include "engine/Graphics/shaders.h"
 
 namespace gl {
 

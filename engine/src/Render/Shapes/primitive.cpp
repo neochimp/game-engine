@@ -1,4 +1,4 @@
-#include "Engine/Graphics/Shapes/primitive.h"
+#include "engine/Graphics/Shapes/primitive.h"
 
 namespace gl {
     static void insertVec3(std::vector<float>& data, const glm::vec3 v) {

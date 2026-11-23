@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Engine/Graphics/material.h"
-#include "Engine/Graphics/Skinned/skeleton.h"
+#include "engine/Graphics/material.h"
+#include "engine/Graphics/Skinned/skeleton.h"
 
 #include <memory>
 #include <string>

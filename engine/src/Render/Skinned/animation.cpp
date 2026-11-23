@@ -1,4 +1,4 @@
-#include "Engine/Graphics/Skinned/animation.h"
+#include "engine/Graphics/Skinned/animation.h"
 
 #include <glm/ext.hpp>
 

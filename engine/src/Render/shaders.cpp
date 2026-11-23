@@ -1,10 +1,10 @@
-#include "Engine/Graphics/shaders.h"
+#include "engine/Graphics/shaders.h"
 
 #include <fstream>
 #include <glm/gtc/type_ptr.hpp>
 
-#include "Engine/debug.h"
-#include "Engine/file.h"
+#include "engine/debug.h"
+#include "engine/file.h"
 
 namespace gl {
 

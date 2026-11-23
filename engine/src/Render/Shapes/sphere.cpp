@@ -1,4 +1,4 @@
-#include "Engine/Graphics/Shapes/sphere.h"
+#include "engine/Graphics/Shapes/sphere.h"
 
 namespace gl {
     Sphere::Sphere(int latitudinal_subdivisions, int longitudinal_subdivisions) {

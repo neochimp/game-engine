@@ -1,19 +1,19 @@
-#include "Engine/Graphics/mesh.h"
+#include "engine/Graphics/mesh.h"
 
 #include <assimp/Importer.hpp>
 #include <assimp/postprocess.h>
 #include <assimp/scene.h>
 
-#include "Engine/debug.h"
-#include "Engine/file.h"
-#include "Engine/Graphics/graphics.h"
-#include "Engine/Graphics/material.h"
-#include "Engine/Graphics/Shapes/cone.h"
-#include "Engine/Graphics/Shapes/cube.h"
-#include "Engine/Graphics/Shapes/cylinder.h"
-#include "Engine/Graphics/Shapes/primitive.h"
-#include "Engine/Graphics/Shapes/quad.h"
-#include "Engine/Graphics/Shapes/sphere.h"
+#include "engine/debug.h"
+#include "engine/file.h"
+#include "engine/Graphics/graphics.h"
+#include "engine/Graphics/material.h"
+#include "engine/Graphics/Shapes/cone.h"
+#include "engine/Graphics/Shapes/cube.h"
+#include "engine/Graphics/Shapes/cylinder.h"
+#include "engine/Graphics/Shapes/primitive.h"
+#include "engine/Graphics/Shapes/quad.h"
+#include "engine/Graphics/Shapes/sphere.h"
 
 
 namespace gl {

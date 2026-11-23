@@ -1,4 +1,4 @@
-#include "Engine/Graphics/Shapes/quad.h"
+#include "engine/Graphics/Shapes/quad.h"
 
 namespace gl {
     Quad::Quad(int subdivisions) {

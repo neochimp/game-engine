@@ -1,12 +1,12 @@
-#include "Engine/Graphics/graphics.h"
+#include "engine/Graphics/graphics.h"
 
 #include <string>
 
-#include "Engine/debug.h"
-#include "Engine/window.h"
-#include "Engine/Graphics/camera.h"
-#include "Engine/Graphics/light.h"
-#include "Engine/Graphics/shaders.h"
+#include "engine/debug.h"
+#include "engine/window.h"
+#include "engine/Graphics/camera.h"
+#include "engine/Graphics/light.h"
+#include "engine/Graphics/shaders.h"
 
 namespace gl {
     ShaderProgram* Graphics::active_shader_;

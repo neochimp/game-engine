@@ -1,5 +1,5 @@
 #include "basic.h"
-#include <Engine/window.h>
+#include <engine/window.h>
 
 int main() {
     // Create game

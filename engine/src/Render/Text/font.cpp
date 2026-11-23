@@ -1,7 +1,7 @@
-#include "Engine/Graphics/Text/font.h"
+#include "engine/Graphics/Text/font.h"
 
-#include "Engine/debug.h"
-#include "Engine/file.h"
+#include "engine/debug.h"
+#include "engine/file.h"
 
 
 Font::Font(const std::string& filepath) {

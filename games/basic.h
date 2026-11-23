@@ -1,6 +1,6 @@
 #pragma once
 
-#include <Engine/game.h>
+#include <engine/game.h>
 
 class BasicGame: public Game {
 

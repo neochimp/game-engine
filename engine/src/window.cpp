@@ -1,6 +1,6 @@
-#include "Engine/window.h"
-#include "Engine/debug.h"
-#include "Engine/Graphics/graphics.h"
+#include "engine/window.h"
+#include "engine/debug.h"
+#include "engine/Graphics/graphics.h"
 
 #include <GLFW/glfw3.h>
 

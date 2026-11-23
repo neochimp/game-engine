@@ -1,4 +1,4 @@
-#include "Engine/Graphics/material.h"
+#include "engine/Graphics/material.h"
 
 #include <assimp/material.h>
 #include <assimp/scene.h>
@@ -7,8 +7,8 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
 
-#include "Engine/debug.h"
-#include "Engine/file.h"
+#include "engine/debug.h"
+#include "engine/file.h"
 
 namespace gl {
 

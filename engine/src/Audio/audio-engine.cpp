@@ -1,10 +1,10 @@
-#include "Engine/Audio/audio-engine.h"
+#include "engine/Audio/audio-engine.h"
 
 #include <algorithm>
 #include <stdexcept>
 #include <glm/glm.hpp>
 
-#include "Engine/debug.h"
+#include "engine/debug.h"
 
 namespace gl {
 

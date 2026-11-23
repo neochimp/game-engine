@@ -1,4 +1,4 @@
-#include "Engine/Graphics/Shapes/cone.h"
+#include "engine/Graphics/Shapes/cone.h"
 
 namespace gl {
     Cone::Cone(int radial_subdivisions, int height_subdivisions) {
